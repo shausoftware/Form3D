@@ -1,0 +1,11 @@
+1.2
+- Primitives are now created in front of the editor camera instead of (0,0,0).
+- Proper undo support for Unity 4.3+.
+
+1.1
+- New primitive: Pyramid
+- New primitive: Slope
+- The capsule radius is now clamped to half its height
+
+1.0
+- Initial release
