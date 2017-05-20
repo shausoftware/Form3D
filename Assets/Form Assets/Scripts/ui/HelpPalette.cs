@@ -22,7 +22,7 @@ public class HelpPalette : MonoBehaviour {
 		GUI.TextArea (new Rect (20, 85, 780, 115), helpText);
 
 		helpText = "Now to add some colour.\n"
-						+ "T - toggles the Colour Palette on and off.\n"
+						+ "P - toggles the Colour Palette on and off.\n"
 						+ "Try changing the parameters here to their affect on the Form and the background.\n"
 						+ "Note engaging Colour Cycling overrides the base palette colour.";
 		GUI.TextArea (new Rect (20, 205, 780, 85), helpText);
